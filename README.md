@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 The self-collected fish feeding intensity dataset is available on Google Drive:
 
-📂 [**Google Drive link**](https://drive.google.com/your-dataset-link)
+📂 [**Google Drive link**](https://drive.google.com/drive/folders/1TAWASoJnAUC6-Nd9IMkvgupxHDFfknaZ?usp=sharing)
 
 Download and extract the `dataset/` folder to the project root. It should contain:
 
@@ -94,17 +94,6 @@ All results are saved to `results_prical/` as JSON files.
 
 ```bash
 python figures/plot_metrics.py
-```
-
-## Citation
-
-```bibtex
-@inproceedings{huo2026attention,
-  title={Attention Calibration with Frozen DINO Masks: A Bioinformatics Perspective on Interpretable Fish Feeding Intensity Classification},
-  author={Huo, YuChen and Huang, Weibin and Dong, Xiaohui and Zheng, Jiangmao},
-  booktitle={Proceedings of the Pacific Rim International Conference on Artificial Intelligence (PRICAI)},
-  year={2026}
-}
 ```
 
 ## License
